@@ -8,6 +8,21 @@ namespace Delta_team.clase4
 {
     public class ciclo
     {
+        public static void Main(string[] args)
+        {
+
+            int contador = 1;
+
+            while (contador <= 5)
+
+            {
+               Console.WriteLine("Vuelta numero " + contador);
+                contador++;
+            }
+
+            Console.WriteLine("El ciclo termino.");
+
+        }
 
     }
 
