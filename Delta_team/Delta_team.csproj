@@ -5,7 +5,15 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>Delta_team.clase4.fortati</StartupObject>
+    <StartupObject>Delta_team.clase4.ejr10</StartupObject>
   </PropertyGroup>
+
+  <ItemGroup>
+    <EditorConfigFiles Remove="C:\delta_team\Delta_Team\Delta_team\ejerccios 1 al 20\.editorconfig" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="C:\delta_team\Delta_Team\Delta_team\ejerccios 1 al 20\.editorconfig" />
+  </ItemGroup>
 
 </Project>
