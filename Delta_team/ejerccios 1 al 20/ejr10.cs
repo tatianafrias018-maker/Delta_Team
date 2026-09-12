@@ -19,7 +19,7 @@ namespace Delta_team.clase4
                 Console.WriteLine("ingrese la cantidad de folios del documento" + contador);
                 double folios = double.Parse(Console.ReadLine());
                 sumaFolios += folios;
-                c
+                
 
             }
             double promedio= sumaFolios / TOTA_DOCS;
